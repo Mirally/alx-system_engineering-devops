@@ -1,0 +1,2 @@
+#!/bin/bash
+grepo -v "bin" /etc/passwd
